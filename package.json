@@ -2,6 +2,7 @@
   "name": "json-to-graphql-schema-online",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://matheusr42.github.io/json-to-graphql-schema-online",
   "dependencies": {
     "lodash": "^4.17.11",
     "pascal-case": "^2.0.1",
@@ -9,6 +10,7 @@
     "react-codemirror": "^1.0.0",
     "react-codemirror2": "^5.1.0",
     "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.0",
     "react-scripts": "2.1.8",
     "react-split-pane": "^0.1.87",
     "sweetalert2": "^8.8.0",
@@ -18,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -28,5 +32,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }

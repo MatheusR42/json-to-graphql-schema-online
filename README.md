@@ -1,7 +1,8 @@
 # json-to-graphql-schema-online
 
 Transforms JSON input into a GraphQL schema.
-Url:
+
+URL: [https://matheusr42.github.io/json-to-graphql-schema-online/](https://matheusr42.github.io/json-to-graphql-schema-online/)
 
 ### Why would I use this?
 
