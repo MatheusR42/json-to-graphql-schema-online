@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/json-to-graphql-schema-online/precache-manifest.cb976be3764959a0584caa3540fc9589.js"
+  "/json-to-graphql-schema-online/precache-manifest.fa05f7c766dcac3beadb8a95c6cba291.js"
 );
 
 workbox.clientsClaim();
