@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "lodash": "^4.17.11",
+    "pascal-case": "^2.0.1",
     "react": "^16.8.6",
+    "react-codemirror": "^1.0.0",
+    "react-codemirror2": "^5.1.0",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "react-split-pane": "^0.1.87",
+    "sweetalert2": "^8.8.0",
+    "util": "^0.11.1"
   },
   "scripts": {
     "start": "react-scripts start",
