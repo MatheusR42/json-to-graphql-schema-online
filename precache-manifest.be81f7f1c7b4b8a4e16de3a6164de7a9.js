@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/json-to-graphql-schema-online/static/css/2.5125f168.chunk.css"
   },
   {
-    "revision": "c174e9ebc23ca8950485144443f2685e",
+    "revision": "1c428f5ccd8c5c0138fe357714c18feb",
     "url": "/json-to-graphql-schema-online/index.html"
   }
 ];
