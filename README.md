@@ -10,4 +10,9 @@ Let's say you want to use an existing REST API in a GraphQL service and expose t
 
 This app is based on [json-to-simple-graphql-schema](https://github.com/walmartlabs/json-to-simple-graphql-schema) from walmartlabs. [@maxnachlinger](https://github.com/maxnachlinger) done the real work I just implement the web interface :)
 
+
+Whe I developed this app there was only the command line interface, now [@maxnachlinger](https://github.com/maxnachlinger) created a web official version. I recommend to see his version, since it is importing the oficial lib.
+http://maxnachlinger.js.org/json-to-simple-graphql-schema-ui/
+https://github.com/maxnachlinger/json-to-simple-graphql-schema-ui
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
